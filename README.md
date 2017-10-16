@@ -1,2 +1,2 @@
-# Twitter-Sentient-Analysis
-Contains raw tweet data collected from twitter and labeled training data set.
+# Twitter-Sentiment-Analysis
+This is a text analysis and sentiment classification project on data collected from microblogging platform twitter.com. I used tweepy API to collected 5490 tweets on the topic 'Wonder Woman'(the movie) and performed some basic exploratory data analysis on the tweets objects. I also performed sentiment classification on the tweets. Since this is my first sentiment analysis project, your comments and constructive critisizm are most welcome.
